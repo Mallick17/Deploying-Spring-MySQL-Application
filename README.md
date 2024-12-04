@@ -101,6 +101,7 @@ pipeline {
 - The last build will be running.
   - **Copy the App URL:1234 from Jenkins and test the site in a browser**.
 - Verify the database setup using MySQL commands.
+- To handle database and setup [Click Here & Review your database](https://github.com/Mallick17/Deploying-Spring-MySQL-Application/tree/master?tab=readme-ov-file#in-database-server).
 
 
 
